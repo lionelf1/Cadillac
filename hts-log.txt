@@ -1,0 +1,18 @@
+HTTrack3.48-21+htsswf+htsjava launched on Tue, 08 Dec 2015 14:02:33 at http://www.dare-greatly.com/experience-cadillac/xt5/parallels-by-design +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.dare-greatly.com/experience-cadillac/xt5/parallels-by-design -O1 "C:\Users\Charles\OneDrive\Desktop\Cadillac\Websites\Cadillac" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:04:21	Error: 	"Not Found" (404) at link www.dare-greatly.com/css/ajax-loader.gif (from www.dare-greatly.com/css/libraries.min.css)
+14:04:21	Error: 	"Not Found" (404) at link www.dare-greatly.com/css/fonts/slick.eot (from www.dare-greatly.com/css/libraries.min.css)
+14:04:21	Error: 	"Not Found" (404) at link www.dare-greatly.com/css/fonts/slick.eot? (from www.dare-greatly.com/css/libraries.min.css)
+14:04:22	Error: 	"Not Found" (404) at link www.dare-greatly.com/css/fonts/slick.woff (from www.dare-greatly.com/css/libraries.min.css)
+14:04:22	Error: 	"Not Found" (404) at link www.dare-greatly.com/css/fonts/slick.ttf (from www.dare-greatly.com/css/libraries.min.css)
+14:04:22	Error: 	"Not Found" (404) at link www.dare-greatly.com/css/fonts/slick.svg (from www.dare-greatly.com/css/libraries.min.css)
+14:04:22	Warning: 	Retry after error -4 (Incorrect length (297378 Bytes, 513580 expected)) at link www.dare-greatly.com/images/parallels/h_construction.jpg (from www.dare-greatly.com/css/app.min.css)
+
+HTTrack Website Copier/3.48-21 mirror complete in 2 minutes 6 seconds : 64 links scanned, 56 files written (3158720 bytes overall) [3180529 bytes received at 25242 bytes/sec], 34654 bytes transferred using HTTP compression in 1 files, ratio 35%, 2.5 requests per connection
+(6 errors, 1 warnings, 0 messages)
