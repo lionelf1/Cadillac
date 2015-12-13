@@ -6,7 +6,7 @@ header {
 
 body {
 	background-color: #444;
-	color:white;
+	color:#E0E0E0;
 }
 
 footer {
@@ -39,10 +39,19 @@ footer {
     
     height: 720px;
 }
+.subvideo-dimensions {
+    width: 1280px;
+    height: 300px;
+}
 
 #trailers{
     width: 100%;
 
+}
+
+#subvideo
+{
+	width: 100%; 
 }
 .video-js .vjs-control-bar {
   
