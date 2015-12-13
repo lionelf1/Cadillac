@@ -1,0 +1,63 @@
+header {
+	background-color: #333;
+	opacity: 0.9;
+}
+
+
+body {
+	background-color: #444;
+	color:white;
+}
+
+footer {
+	background-color: #555;
+}
+
+#footer-navigation, .sticky-footer, .sticky-footer .row {
+    background-color: #666;
+}
+
+
+.parallels-home h1{
+    font-size: 3.75rem;
+    letter-spacing: 0.1rem;
+    line-height: 4.37rem;
+    margin: 0;
+    color:white;
+}
+.parallels-home h3 {
+    font-size: 2.5rem;
+    letter-spacing: 0.05rem;
+    color: #111;
+    line-height: 1.87rem;
+    margin-bottom: 2rem;
+    margin-right: 48px;
+}
+
+
+.trailers-dimensions {
+    
+    height: 720px;
+}
+
+#trailers{
+    width: 100%;
+
+}
+.video-js .vjs-control-bar {
+  
+    background-color: #a01015;
+}
+
+q {
+	color: #111;
+}
+
+#footer-sub {
+	color: #a01015;
+}
+
+#footer-navigation li.active a, #footer-navigation li:hover a {
+    width: 120px;
+    color: #a01015;
+}
