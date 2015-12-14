@@ -70,3 +70,7 @@ q {
     width: 120px;
     color: #a01015;
 }
+
+#color_widget li.active {
+    width: 20%;
+}
